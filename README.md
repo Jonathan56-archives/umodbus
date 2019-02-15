@@ -1,1 +1,3 @@
-# uModbus_flask
+# uModbus
+
+Simple usage of uModbus
